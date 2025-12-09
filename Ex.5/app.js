@@ -1,0 +1,1 @@
+alert('Olá, mundo! Adivinha o número em que estou a pensar. Tens 6 tentativas!')
